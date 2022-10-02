@@ -42,3 +42,8 @@
 - Place: Surabaya, INDONESIA
 - Bio: Frontend Developer
 - GitHub: [wahid-ari](https://github.com/wahid-ari)
+
+#### Name: [Nishant Thottarath](https://github.com/Ordinary-droid)
+- Place: Jaipur, INDIA
+- Bio: Student
+- GitHub: [Ordinary-droid](https://github.com/Ordinary-droid)
